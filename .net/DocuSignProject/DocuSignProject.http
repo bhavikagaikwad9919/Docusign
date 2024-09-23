@@ -1,0 +1,6 @@
+@DocuSignProject_HostAddress = http://localhost:5000
+
+GET {{DocuSignProject_HostAddress}}/oauth/token
+Accept: application/json
+
+###

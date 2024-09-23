@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.maindiv{
+  display: flex;
+}
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+.pdfFile{
+  margin-left: 40px;
+  margin-bottom: 25px;
+}
+
+.container {
+  width: 60%;
+  margin: 80px auto 80px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 40px;
+}
+.loader-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(245, 239, 239, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.loadercss{
+  width: 90px;
+  height: 90px;
+}
+
+
+/* h1 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+} */
+h1.statement-of-work {
+  color: #333;
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h1.terms-and-conditions {
+  color: #403d3d;
+  text-align: left;
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 23px;
+}
+
+ol {
+  list-style-type: decimal;
+  padding: 0 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+button[type="submit"] {
+  width: 20%;
+  background-color: #6375da;
+  color: white;
+  padding: 14px 20px;
+  font-size: large;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  align-items: center;
+}
+
+button[type="submit"]:hover {
+  background-color: #5368dc;
+}
+.maindiv {
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+}

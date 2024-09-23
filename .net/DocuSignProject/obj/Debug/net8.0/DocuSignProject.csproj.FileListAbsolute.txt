@@ -1,0 +1,66 @@
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\appsettings.json
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.exe
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.deps.json
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.runtimeconfig.json
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.dll
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.pdb
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.csproj.AssemblyReference.cache
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.AssemblyInfoInputs.cache
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.AssemblyInfo.cs
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.csproj.CoreCompileInputs.cache
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets\msbuild.DocuSignProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets\msbuild.build.DocuSignProject.props
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DocuSignProject.props
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DocuSignProject.props
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\scopedcss\bundle\DocuSignProject.styles.css
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSign.F9203FEA.Up2Date
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.dll
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\refint\DocuSignProject.dll
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.pdb
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.genruntimeconfig.cache
+C:\Kaustubh\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\ref\DocuSignProject.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\appsettings.Development.json
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\appsettings.json
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.exe
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.deps.json
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.runtimeconfig.json
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\DocuSignProject.pdb
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.csproj.AssemblyReference.cache
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.AssemblyInfoInputs.cache
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.AssemblyInfo.cs
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.csproj.CoreCompileInputs.cache
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets\msbuild.DocuSignProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets\msbuild.build.DocuSignProject.props
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DocuSignProject.props
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DocuSignProject.props
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\scopedcss\bundle\DocuSignProject.styles.css
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSign.F9203FEA.Up2Date
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\refint\DocuSignProject.dll
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.pdb
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\DocuSignProject.genruntimeconfig.cache
+D:\Barquecon Projects\Docusign\Docu_Sign_Demo\.net\DocuSignProject\obj\Debug\net8.0\ref\DocuSignProject.dll
